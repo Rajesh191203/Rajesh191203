@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Rajesh191203
+# 👋 Hi, I’m @Rajesh Pokala
 
 - 👀 I’m interested in Data Engineering, Cloud Computing (AWS), and building intelligent data pipelines.
 - 🌱 I’m currently learning advanced concepts in Big Data, AWS architecture, and real-time analytics tools.
